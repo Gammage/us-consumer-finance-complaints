@@ -10,3 +10,12 @@ those complains are plublished in this dataset after they respond or after 15 da
     - could also mean a complicated project
 
 link: https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints/data?select=database.sqlite
+
+## questions to answer;
+
+top complained about products (horizontal bar chart)
+complaints per state (choropleth) us map
+worst response rate by compnany bar chart 
+monthly complaint trend (line chart)
+dispute rate by submission channel (grouped bar chart)
+

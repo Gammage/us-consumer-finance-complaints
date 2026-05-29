@@ -10,6 +10,7 @@ pkgs.mkShell {
       numpy
       pandas
       matplotlib
+      plotly
     ]))
   ];
 }
