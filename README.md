@@ -1,7 +1,6 @@
 # US consumer finance complaints (a SQL database project)
 
 - the goal is to use this data set to understand how to use SQL with pandas/matplotlib
-- I will then present some findings on my website
 
 ## db info
 the information is from CFPB which sends thousands of consumers complaints about financial products and services to companies for responses
@@ -19,3 +18,9 @@ worst response rate by compnany bar chart
 monthly complaint trend (line chart)
 dispute rate by submission channel (grouped bar chart)
 
+## Final notes
+
+This project was completed 30/05/2026. It is my second project to better understand SQL and using datasets.
+
+- You can see my analysis/write up [on my website](https://gammagelabs.com/data-analytics/us-consumer-finance-complaints-analysis/)
+- You can read my blog post (coming soon) covering my learning curve with SQL, my experiences with this project.
